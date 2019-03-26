@@ -1,0 +1,9 @@
+MilestoneID,             Dependencies, EstimatedEffort, Lead,  Completed, Description
+1. DefineInitialMilestones,             ,               1,    ?,           , Come up with initial milestones for getting started
+2. ScaningRepo,                         ,               8, Szymon,         , Understanding the initial repository and the requirements
+3. C spec,                              ,               4, Bruce,          , Reading C specification and understanding what we need to do
+4. Lexer,                             3.,               3,    ,            , C lexer
+5. Parser,                         3. 4.,                ,    ,            , C parser
+6. CodegenPython,                  3. 5.,                ,    ,            ,translate a sub-set of C into Python
+7. CodegenMIPS,                    3. 5.,                ,    ,            ,translate a sub-set of C into MIPS
+8. Opitimisation,                     7.,                ,    ,            ,

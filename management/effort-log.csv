@@ -1,0 +1,34 @@
+Date,Effort,Developers,Milestones
+17.02,1h,Szymon,seting up QEMU MIPS
+18.02,4h,Szymon and Bruce,reading through the repository andgathering resources - c90 and reading them
+19.02,2h,Szymon,orgianise initial repository
+20.02,2h,Szymon,reading c specification
+22.02,2h,Szymon,planning on lexer and parser
+24.02,6h,Szymon and Bruce,working on parser for python
+25.02,1h,Szymon and Bruce,improving on parser for python
+25.02,2h,Bruce,compiling c translator
+25.02,2h,Szymon,compiling c translator
+25.02,2h,Szymon,compiling c translator
+26.02,1h,Bruce,output into *py
+01.03,1h,Szymon,indentation python
+02.03,1h,Szymon,globals python
+04.03,3h,Szymon and Bruce,parsing and lexing for full c
+05.03,4h,Bruce,test translator
+06.03,5h,Szymon,creating nodes classes pt.1
+07.03,3h,Szymon,creating nodes classes pt.2
+08.03,4h,Szymon,first time compiling
+09.03,3h,Bruce,merge two systems into 1
+09.03,7h,Szymon,fixing compilation
+10.03,4h,Bruce, working on test-suite
+11.03,3h,Szymon,restructuring scopes
+11.03,1h,Bruce,finish test cases
+12.03,3h,Szymon,initialisation function
+14.03,5h,Szymon,working on MIPS
+14.03,3h,Bruce,learning bash script
+15.03,5h,Szymon,starting to work on binary expressions
+15.03,2h,Bruce,finish test-suite
+16.03,10h,Szymon,binary expressions
+17.03,1h,Szymon,finishing parse tree
+18.03,3h,Szymon,first compilation to MIPS
+19.03,2h,Bruce,merge new update to whole program
+19.03,1h,Bruce,whole program pass formative test
